@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML + CSS
 - 📫 How to reach me : Discord : gameally
-- 
 
 <!---
 Alyan2108/Alyan2108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
